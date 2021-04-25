@@ -1,29 +1,31 @@
 ---
 layout: page
-title: About
+title: About retroNUC
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+The retroNUC project comes from a very ambitious idea:
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+> is it possible to have every game 
 
-## Features
+It's the dream of the 'video game super console', isn't it?
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## Goals
+* Set up full, playable collections for all gamepad-based consoles
+  * In order to 
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+* Achieve the best _realistic_ experienceSet up a realistic experience while playing these games, if possible
+  * As the games were meant to be played - No internal resolution boosting
+  * Use RetroArch's overlay/shader systems where appropiate to emulate the look of CRT/LCD screens at a 4K resolution, without needing to invest in expensive older technology
+
+* Present games in a user-friendly way that preserves the history
+
+* Contribute back to video game emulation and preservation resources
+  * Capture/gather my own screenshots and video clips where existing resources don't meet my own quality standards, and upload these 
+  * Use my own coding and development experience to test and report issues, as well as submit bug fixes or feature improvements to open-source software such as emulators
+
+* Develop my own skills in the following:
+  * Familiarity with linux-based systems
+  * 
+  * Web development, markdown
+  * Image and video editing skills
